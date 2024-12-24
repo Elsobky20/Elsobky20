@@ -21,7 +21,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c&logoColor=239120)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=239120)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite&logoColor=003B57)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
